@@ -4,10 +4,17 @@
     <title>Deep Learning &amp; PyTorch Researchers Hub</title>
     <link>https://pytorch-deep-learning-research-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:33:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:04:57 GMT</lastBuildDate>
     <atom:link href="https://pytorch-deep-learning-research-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
+      <link>https://www.reddit.com/r/typescript/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pytorch-deep-learning-research-hub/#pytorch-deep-learning-research-hub-reddit-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 14:04:57 GMT</pubDate>
+      <description>Newly verified community added to Deep Learning &amp; PyTorch Researchers Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
+    </item>
+<item>
       <title>Deep Learning &amp; PyTorch Researchers Hub Initial Release</title>
       <link>https://pytorch-deep-learning-research-hub.vercel.app/</link>
       <pubDate>Sat, 12 Sep 2026 10:33:25 GMT</pubDate>
