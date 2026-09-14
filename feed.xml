@@ -4,10 +4,17 @@
     <title>Deep Learning &amp; PyTorch Researchers Hub</title>
     <link>https://pytorch-deep-learning-research-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 10:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:54:24 GMT</lastBuildDate>
     <atom:link href="https://pytorch-deep-learning-research-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: PyTorch Official Community Discord (Discord)</title>
+      <link>https://discord.gg/pytorch</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pytorch-deep-learning-research-hub/#pytorch-deep-learning-research-hub-discord-20260914-p1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:54:24 GMT</pubDate>
+      <description>Newly verified community added to Deep Learning &amp; PyTorch Researchers Hub: The official Discord server for PyTorch researchers, covering tensor compilation, distributed training (FSDP), CUDA optimization, and papers.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
       <link>https://www.reddit.com/r/cpp/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pytorch-deep-learning-research-hub/#pytorch-deep-learning-research-hub-reddit-20260914-1-2026-09-14</guid>

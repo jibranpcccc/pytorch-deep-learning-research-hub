@@ -1,5 +1,24 @@
 [
   {
+    "id": "pytorch-deep-learning-research-hub-discord-20260914-p1",
+    "title": "PyTorch Official Community Discord",
+    "platform": "Discord",
+    "category": "Deep Learning & PyTorch",
+    "memberCount": "68,000+ members",
+    "description": "The official Discord server for PyTorch researchers, covering tensor compilation, distributed training (FSDP), CUDA optimization, and papers.",
+    "joinUrl": "https://discord.gg/pytorch",
+    "tags": [
+      "pytorch",
+      "deep-learning",
+      "ai",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "pytorch-deep-learning-research-hub-reddit-20260914-1",
     "title": "r/cpp High Performance Systems",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
